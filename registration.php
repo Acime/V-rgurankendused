@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Registration page for new users -->
 <?php
 session_start();
 require 'database.php';

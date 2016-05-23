@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- The login page, where the user can log in -->
 <?php
 session_start();
 require 'database.php';

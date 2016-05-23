@@ -1,4 +1,5 @@
 <?php
+/* Script for adding a friend */
 session_start();
 require 'database.php';
 //Get URL and SESSION variables

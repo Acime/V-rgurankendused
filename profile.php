@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Profile view of another user -->
 <?php
 session_start();
 require 'database.php';

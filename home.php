@@ -1,4 +1,5 @@
 <?php 
+/* Homepage, which the user will be redirected to after logging in */
 session_start();
        
 if(!$_SESSION['name']){

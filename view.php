@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+<!-- Page, where all other users are listed -->
 <?php
 session_start();
 require 'database.php';
